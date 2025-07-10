@@ -1,2 +1,14 @@
-# automatic-birthday-wisher-
-🎂 Birthday Wisher for NGO Donors — Heartbeat of Hope An automatic birthday greeting web app built for NGOs to celebrate their donors. This project collects donor details through a beautiful website and sends personalized birthday wishes via email on their special day. Developed using Flask, HTML, CSS, and Python 
+# 🎂 Birthday Wisher for NGO Donors
+
+An automatic birthday greeting web app built for NGOs to celebrate their donors.  
+This app collects donor information via a user-friendly interface and sends heartfelt birthday emails on their special day.
+
+✅ Built with:  
+- Flask (Python backend)  
+- HTML/CSS (Frontend)  
+- Gmail SMTP integration  
+- CSV data storage  
+
+🚀 Live Demo: [Add your deployed link here once hosted]
+
+💌 Thank your supporters. Build community. Celebrate lives.
